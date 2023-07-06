@@ -9,7 +9,13 @@ Re-implementation of Vision Transformer
 - [x] Image Preprocessing
 - [x] Patching
 - [x] Flattening
-- [ ] Linear Projection
+- [x] Linear Projection
+- [x] Position Embedding
+- [x] CLS Token
+- [x] Transformer
+   - [x] Attention
+   - [x] Feedforward
+- [x] MLP Head Classifier
 
 ## Model
 
