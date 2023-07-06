@@ -17,6 +17,11 @@ Re-implementation of Vision Transformer
    - [x] Feedforward
 - [x] MLP Head Classifier
 
+## Datasets
+
+- [x] MNIST
+- [ ] CIFAR-10
+
 ## Model
 
 ### Arch
