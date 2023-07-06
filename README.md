@@ -19,8 +19,9 @@ Re-implementation of Vision Transformer
 
 ## Datasets
 
-- [x] MNIST
-- [ ] CIFAR-10
+- [x] MNIST (98%)
+- [x] CIFAR-10 (75.25%)
+- [ ] Tiny ImageNet
 
 ## Model
 
