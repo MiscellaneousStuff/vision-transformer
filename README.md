@@ -21,7 +21,7 @@ Re-implementation of Vision Transformer
 
 - [x] MNIST (98%)
 - [x] CIFAR-10 (75.25%)
-- [ ] Tiny ImageNet
+- [x] Tiny ImageNet (44%) (Same param count as ResNet18)
 
 ## Model
 
